@@ -41,7 +41,6 @@ The following EXTRA features are implemented:
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
 <img src='https://github.com/idavoong/and101p3/assets/60492208/0a13d334-c8f1-40d0-a214-2e8d87d2ecdd' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
-![image](https://github.com/idavoong/and101p3/assets/60492208/0a13d334-c8f1-40d0-a214-2e8d87d2ecdd)
 
 
 ## Video Demo
